@@ -10,6 +10,13 @@ export SSH_AUTH_SOCK="$HOME/.1password/agent.sock"
 export SDKMAN_DIR="$HOME/.sdkman"
 # TEXLIVE
 export TEXLIVE="/usr/local/texlive/2025/bin/x86_64-linux"
+# RENAULT
+export RSWL="/home/workspace/rswl"
+export PLATFORMS="$RSWL/platforms"
+export PREBUILTS="$RSWL/prebuilts"
+export TOOLS="$RSWL/tools"
+export ANDROID_HOME="$RSWL/sdk"
+export ANDROID_SDK_ROOT="$ANDROID_HOME"
 
 # MISC
 export Z="$HOME/Lab/z"
