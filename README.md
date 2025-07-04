@@ -23,6 +23,7 @@
     * [Navigation](#navigation)
     * [Reload](#reload-1)
     * [Resize](#resize)
+    * [Search](#search)
     * [Surround](#surround)
     * [Tables](#tables)
 * [Plugins](#plugins)
@@ -140,6 +141,12 @@
 | ***Press*** `SPACE + Right` | `NORMAL` | Increase **vertical** size by 5   |
 | ***Press*** `SPACE + Up`    | `NORMAL` | Increase **horizontal** size by 5 |
 | ***Press*** `SPACE + Down`  | `NORMAL` | Decrease **horizontal** size by 5 |
+
+### Search
+
+| Shortcut                           | Mode     | Action                         |
+|------------------------------------|----------|--------------------------------|
+| ***Press*** `Esc + f` *or* `Alt-f` | `NORMAL` | Search lines in current buffer |
 
 ### Surround
 

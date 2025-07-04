@@ -141,6 +141,9 @@ nnoremap <Leader><Down> :resize -5<CR>
 nnoremap <Leader><Left> :vertical resize -5<CR>
 nnoremap <Leader><Right> :vertical resize +5<CR>
 
+" Search lines in current buffer
+nnoremap <Esc>f :BLines<CR>
+
 " Toggle mouse
 nnoremap <leader>m :call ToggleMouse()<CR>
 
